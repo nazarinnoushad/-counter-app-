@@ -11,4 +11,5 @@ This is a simple React application that demonstrates how to create a counter wit
 - **React**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: A utility-first CSS framework for styling.
   
-
+### **Live App**:
+[Counter App Live Demo](https://naz-counter-app.netlify.app/)
